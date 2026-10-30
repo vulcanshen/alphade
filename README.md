@@ -23,7 +23,7 @@ Requires macOS 26 or later. Tested on Apple silicon. Alphade is signed with a De
 
 ### Download
 
-1. Download `Alphade-<version>.zip` from [Releases](../../releases/latest).
+1. Download [`Alphade.zip`](../../releases/latest/download/Alphade.zip) from the [latest release](../../releases/latest).
 2. Open the zip and drag **Alphade** to your Applications folder.
 3. Open Alphade. macOS asks whether to open an app downloaded from the internet; click **Open**.
 

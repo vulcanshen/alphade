@@ -23,7 +23,7 @@
 
 ### 直接下載
 
-1. 從 [Releases](../../releases/latest) 下載 `Alphade-<版本>.zip`。
+1. 從[最新版本](../../releases/latest)下載 [`Alphade.zip`](../../releases/latest/download/Alphade.zip)。
 2. 打開 zip，把 **Alphade** 拖進「應用程式」資料夾。
 3. 打開 Alphade。macOS 會問是否要打開從網路下載的 app，按「打開」。
 
