@@ -80,6 +80,13 @@ brew install --cask vulcanshen/tap/alphade
 
 問題與建議請到 [Issues](../../issues) 回報。原始碼不公開。
 
+## 貢獻者
+
+<a href="https://github.com/vulcanshen"><img src="https://github.com/vulcanshen.png" width="48" alt="Vulcan Shen"></a>
+<a href="https://github.com/claude"><img src="https://github.com/claude.png" width="48" alt="Claude"></a>
+
+由 [Vulcan Shen](https://github.com/vulcanshen) 與 [Claude](https://github.com/claude) 使用 Claude Code 開發。
+
 ## 授權
 
 Alphade 可免費下載與使用。© 2026 Vulcan Shen，保留所有權利。Alphade 依「現狀」提供，不附任何形式的保證。

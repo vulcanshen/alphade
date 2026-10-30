@@ -78,6 +78,13 @@ Only edit videos you own or have permission to change. Removing someone else's w
 
 Report problems and ideas in [Issues](../../issues). The source code is not public.
 
+## Contributors
+
+<a href="https://github.com/vulcanshen"><img src="https://github.com/vulcanshen.png" width="48" alt="Vulcan Shen"></a>
+<a href="https://github.com/claude"><img src="https://github.com/claude.png" width="48" alt="Claude"></a>
+
+Built by [Vulcan Shen](https://github.com/vulcanshen) and [Claude](https://github.com/claude) with Claude Code.
+
 ## License
 
 Alphade is free to download and use. © 2026 Vulcan Shen. All rights reserved. Alphade is provided "as is", without warranty of any kind.
