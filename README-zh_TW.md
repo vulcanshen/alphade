@@ -19,13 +19,23 @@
 
 ## 安裝
 
-需要 macOS 26 以上。已在 Apple 晶片的 Mac 上測試。
+需要 macOS 26 以上。已在 Apple 晶片的 Mac 上測試。Alphade 已用 Developer ID 簽章，並經過 Apple 公證。
+
+### 直接下載
 
 1. 從 [Releases](../../releases/latest) 下載 `Alphade-<版本>.zip`。
 2. 打開 zip，把 **Alphade** 拖進「應用程式」資料夾。
-3. 打開 Alphade。macOS 會問是否要打開從網路下載的 app，按「打開」。Alphade 已用 Developer ID 簽章，並經過 Apple 公證。
+3. 打開 Alphade。macOS 會問是否要打開從網路下載的 app，按「打開」。
 
 移除時把 Alphade 拖到垃圾桶即可。它的設定與暫存檔在 `~/Library/Containers/app.vulcanshen.alphade`，也可以一併刪除。
+
+### Homebrew
+
+```sh
+brew install --cask vulcanshen/tap/alphade
+```
+
+更新用 `brew upgrade --cask alphade`。移除用 `brew uninstall --cask alphade`；加上 `--zap` 會連設定與暫存檔一起刪除。
 
 ## 快速開始
 

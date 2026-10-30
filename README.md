@@ -19,13 +19,23 @@ Draw a box around the overlay. Alphade studies the whole video, works out how th
 
 ## Install
 
-Requires macOS 26 or later. Tested on Apple silicon.
+Requires macOS 26 or later. Tested on Apple silicon. Alphade is signed with a Developer ID and notarized by Apple.
+
+### Download
 
 1. Download `Alphade-<version>.zip` from [Releases](../../releases/latest).
 2. Open the zip and drag **Alphade** to your Applications folder.
-3. Open Alphade. macOS asks whether to open an app downloaded from the internet; click **Open**. Alphade is signed with a Developer ID and notarized by Apple.
+3. Open Alphade. macOS asks whether to open an app downloaded from the internet; click **Open**.
 
 To uninstall, drag Alphade to the Trash. Its settings and temporary files are in `~/Library/Containers/app.vulcanshen.alphade`, which you can delete too.
+
+### Homebrew
+
+```sh
+brew install --cask vulcanshen/tap/alphade
+```
+
+Update with `brew upgrade --cask alphade`. Uninstall with `brew uninstall --cask alphade`, or add `--zap` to delete its settings and temporary files too.
 
 ## Quick start
 
