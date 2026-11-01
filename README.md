@@ -2,7 +2,7 @@
 
 Remove semi-transparent watermarks, logos and text overlays from your own videos, on your Mac. Alphade brings back the picture underneath instead of blurring it away.
 
-English | [繁體中文](README-zh_TW.md)
+English | [Deutsch](README-de.md) | [Español](README-es.md) | [Français](README-fr.md) | [日本語](README-ja.md) | [한국어](README-ko.md) | [繁體中文](README-zh_TW.md)
 
 ![Alphade comparing the original and the processed video](images/compare.png)
 
@@ -44,6 +44,8 @@ Update with `brew upgrade --cask alphade`. Uninstall with `brew uninstall --cask
 3. Click **Analyze**.
 4. Check the result with **Original**, **Processed** and **Compare**.
 5. Click **Export…** and choose where to save. The name is filled in as `<original name>_nowm.mp4`.
+
+The interface follows your system language: English, Deutsch, Español, Français, 日本語, 한국어 or 繁體中文. You can switch it in Settings.
 
 ## Keyboard
 

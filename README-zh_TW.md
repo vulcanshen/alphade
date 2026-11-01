@@ -2,7 +2,7 @@
 
 在你的 Mac 上，去除你自己影片上的半透明浮水印、logo 與文字疊圖。Alphade 會把底下原本的畫面還原回來，不是把它糊掉。
 
-[English](README.md) | 繁體中文
+[English](README.md) | [Deutsch](README-de.md) | [Español](README-es.md) | [Français](README-fr.md) | [日本語](README-ja.md) | [한국어](README-ko.md) | 繁體中文
 
 ![Alphade 對照原始與處理後的畫面](images/compare-zh-Hant.png)
 
@@ -45,7 +45,7 @@ brew install --cask vulcanshen/tap/alphade
 4. 用 **原始**、**處理後**、**對照** 檢查結果。
 5. 按 **輸出…**，選擇存放位置。檔名會預填為 `<原檔名>_nowm.mp4`。
 
-介面會依系統語言顯示繁體中文或英文，也可以在設定裡切換。
+介面會依系統語言顯示英文、德文、西班牙文、法文、日文、韓文或繁體中文，也可以在設定裡切換。
 
 ## 快捷鍵
 
