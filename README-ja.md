@@ -80,6 +80,10 @@ brew install --cask vulcanshen/tap/alphade
 
 不具合やアイデアは [Issues](../../issues) で報告してください。ソースコードは公開していません。
 
+## Alphade を応援する
+
+Alphade は無料で、広告もありません。手間が省けたなら、[Ko-fi でコーヒーを一杯](https://ko-fi.com/vulcanshen)おごっていただけるとうれしいです。
+
 ## コントリビューター
 
 <a href="https://github.com/vulcanshen"><img src="https://github.com/vulcanshen.png" width="48" alt="Vulcan Shen"></a>

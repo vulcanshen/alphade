@@ -80,6 +80,10 @@ Ne modifiez que des vidéos qui vous appartiennent ou que vous avez le droit de 
 
 Signalez les problèmes et les idées dans les [Issues](../../issues). Le code source n’est pas public.
 
+## Soutenir Alphade
+
+Alphade est gratuit et sans publicité. S’il vous fait gagner du temps, vous pouvez [m’offrir un café sur Ko-fi](https://ko-fi.com/vulcanshen).
+
 ## Contributeurs
 
 <a href="https://github.com/vulcanshen"><img src="https://github.com/vulcanshen.png" width="48" alt="Vulcan Shen"></a>

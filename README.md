@@ -80,6 +80,10 @@ Only edit videos you own or have permission to change. Removing someone else's w
 
 Report problems and ideas in [Issues](../../issues). The source code is not public.
 
+## Support Alphade
+
+Alphade is free, with no ads. If it saves you time, you can [buy me a coffee on Ko-fi](https://ko-fi.com/vulcanshen).
+
 ## Contributors
 
 <a href="https://github.com/vulcanshen"><img src="https://github.com/vulcanshen.png" width="48" alt="Vulcan Shen"></a>

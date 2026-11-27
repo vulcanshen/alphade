@@ -80,6 +80,10 @@ brew install --cask vulcanshen/tap/alphade
 
 문제나 아이디어는 [Issues](../../issues)에 남겨 주세요. 소스 코드는 공개하지 않습니다.
 
+## Alphade 후원하기
+
+Alphade는 무료이고 광고도 없습니다. 시간을 아끼는 데 도움이 됐다면 [Ko-fi에서 커피 한 잔](https://ko-fi.com/vulcanshen) 사 주시면 감사하겠습니다.
+
 ## 기여자
 
 <a href="https://github.com/vulcanshen"><img src="https://github.com/vulcanshen.png" width="48" alt="Vulcan Shen"></a>

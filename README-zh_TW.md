@@ -80,6 +80,10 @@ brew install --cask vulcanshen/tap/alphade
 
 問題與建議請到 [Issues](../../issues) 回報。原始碼不公開。
 
+## 支持 Alphade
+
+Alphade 免費、沒有廣告。如果它幫你省了時間，可以[到 Ko-fi 請我喝杯咖啡](https://ko-fi.com/vulcanshen)。
+
 ## 貢獻者
 
 <a href="https://github.com/vulcanshen"><img src="https://github.com/vulcanshen.png" width="48" alt="Vulcan Shen"></a>
