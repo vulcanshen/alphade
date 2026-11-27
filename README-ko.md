@@ -84,6 +84,8 @@ brew install --cask vulcanshen/tap/alphade
 
 Alphade는 무료이고 광고도 없습니다. 시간을 아끼는 데 도움이 됐다면 [Ko-fi에서 커피 한 잔](https://ko-fi.com/vulcanshen) 사 주시면 감사하겠습니다.
 
+[![Ko-fi에서 후원하기](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/vulcanshen)
+
 ## 기여자
 
 <a href="https://github.com/vulcanshen"><img src="https://github.com/vulcanshen.png" width="48" alt="Vulcan Shen"></a>

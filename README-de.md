@@ -84,6 +84,8 @@ Probleme und Ideen kannst du unter [Issues](../../issues) melden. Der Quellcode 
 
 Alphade ist kostenlos und werbefrei. Wenn es dir Zeit spart, kannst du mir gerne [auf Ko-fi einen Kaffee spendieren](https://ko-fi.com/vulcanshen).
 
+[![Unterstütze mich auf Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/vulcanshen)
+
 ## Mitwirkende
 
 <a href="https://github.com/vulcanshen"><img src="https://github.com/vulcanshen.png" width="48" alt="Vulcan Shen"></a>

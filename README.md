@@ -84,6 +84,8 @@ Report problems and ideas in [Issues](../../issues). The source code is not publ
 
 Alphade is free, with no ads. If it saves you time, you can [buy me a coffee on Ko-fi](https://ko-fi.com/vulcanshen).
 
+[![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/vulcanshen)
+
 ## Contributors
 
 <a href="https://github.com/vulcanshen"><img src="https://github.com/vulcanshen.png" width="48" alt="Vulcan Shen"></a>

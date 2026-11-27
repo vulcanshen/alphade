@@ -84,6 +84,8 @@ Signalez les problèmes et les idées dans les [Issues](../../issues). Le code s
 
 Alphade est gratuit et sans publicité. S’il vous fait gagner du temps, vous pouvez [m’offrir un café sur Ko-fi](https://ko-fi.com/vulcanshen).
 
+[![Soutenez-moi sur Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/vulcanshen)
+
 ## Contributeurs
 
 <a href="https://github.com/vulcanshen"><img src="https://github.com/vulcanshen.png" width="48" alt="Vulcan Shen"></a>

@@ -84,6 +84,8 @@ Informa de problemas e ideas en [Issues](../../issues). El código fuente no es 
 
 Alphade es gratis y no tiene anuncios. Si te ahorra tiempo, puedes [invitarme a un café en Ko-fi](https://ko-fi.com/vulcanshen).
 
+[![Apóyame en Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/vulcanshen)
+
 ## Colaboradores
 
 <a href="https://github.com/vulcanshen"><img src="https://github.com/vulcanshen.png" width="48" alt="Vulcan Shen"></a>
